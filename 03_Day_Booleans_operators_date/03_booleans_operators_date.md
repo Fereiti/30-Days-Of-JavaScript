@@ -473,7 +473,7 @@ const now = new Date() //
 console.log(now.getTime()) // 1578092201341, this is the number of seconds passed from January 1, 1970 to January 4, 2020 00:56:41
 ```
 
-1. Using _Date.now()_
+2. Using _Date.now()_
 
 ```js
 const allSeconds = Date.now() //
